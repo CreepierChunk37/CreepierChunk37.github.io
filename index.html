@@ -1,195 +1,110 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MATH 221: 线性代数 - 课程主页</title>
-    
-    <!-- Tailwind CSS for styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- Font Awesome for icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-    <style>
-        /* Use Inter font as the default */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f8fafc; /* A light gray background */
-        }
-        /* Simple animation for cards on hover */
-        .hover-card {
-            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-        }
-        .hover-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
-        }
-    </style>
+    <title>Yitong Qiu's Academic Homepage</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
-<body class="text-gray-800">
-
-    <!-- Header Section -->
-    <header class="bg-white shadow-md">
-        <div class="container mx-auto px-6 py-4">
-            <div class="text-center">
-                <h1 class="text-3xl md:text-4xl font-bold text-gray-900">MATH 221: 线性代数 (Linear Algebra)</h1>
-                <p class="text-lg text-gray-600 mt-2">2025年秋季学期</p>
-            </div>
-        </div>
+<body>
+    <header>
+        <h1>Yitong Qiu</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="research.html">Research Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#awards">Awards</a></li>
+                <li><a href="#extracurricular">Extracurricular</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
 
-    <!-- Main Content -->
-    <main class="container mx-auto px-6 py-8">
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am a mathematics undergraduate student at the University of Science and Technology of China, majoring in Probability and Statistics within the Hua Loo-Keng Talent Program in Mathematics. My research interests lie in machine learning theory, diffusion models, and reinforcement learning.</p>
+        </section>
 
-            <!-- Left Column: Main Info -->
-            <div class="md:col-span-2">
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <h3>School of the Gifted Young, University of Science and Technology of China</h3>
+                    <p>BS in Mathematics, Major: Probability and Statistics, Hua Loo-Keng Talent Program in Mathematics</p>
+                    <p>Overall GPA: 3.98/4.3, Rank: 6/93</p>
+                    <p>09/2022 - 07/2026</p>
+                    <p>For detailed coursework information, please visit my <a href="courses.html">Coursework page</a>.</p>
+                </li>
+            </ul>
+        </section>
 
-                <!-- Announcements Section -->
-                <div id="announcements" class="bg-white p-6 rounded-lg shadow-sm mb-8 hover-card">
-                    <h2 class="text-2xl font-bold mb-4 border-b pb-2 text-gray-900">
-                        <i class="fas fa-bullhorn mr-2 text-blue-500"></i>课程公告
-                    </h2>
-                    <ul class="space-y-4">
-                        <li class="p-4 bg-blue-50 rounded-lg">
-                            <p class="font-semibold text-blue-800">[2025/09/01] 欢迎来到线性代数！</p>
-                            <p class="text-sm text-blue-700 mt-1">
-                                第一次习题课将在本周五举行。请确保你已经阅读了教学大纲和评分标准。
-                            </p>
-                        </li>
-                        <li class="p-4 bg-gray-50 rounded-lg">
-                             <p class="font-semibold text-gray-800">[2025/09/01] 作业1已发布</p>
-                            <p class="text-sm text-gray-700 mt-1">
-                                作业1已发布，请在“作业 & 资料”部分下载。截止日期：9月15日。
-                            </p>
-                        </li>
+        <section id="experience">
+            <h2>Research Experience</h2>
+            <p>For detailed information about my research experience, please visit my <a href="research.html">Research Experience page</a>.</p>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Programming:</strong> Python</li>
+                <li><strong>Knowledge:</strong> Solid math background and basic knowledge of machine learning algorithms.</li>
+                <li><strong>Interest:</strong> Machine Learning Theory, Diffusion Models, Reinforcement Learning</li>
+                <li><strong>English:</strong> TOEFL: 101 (R29 L27 S21 W24)</li>
+            </ul>
+        </section>
+
+        <section id="awards">
+            <h2>Scholarships & Awards</h2>
+            <ul>
+                <li>Meritorious Winner (Top 10%), Interdisciplinary Contest in Modeling (ICM)</li>
+                <li>Excellent Teaching Assistant Award, USTC</li>
+                <li>Outstanding Student Scholarship (Second-Class), USTC (Top 10%)</li>
+                <li>Alibaba Global Mathematics Competition, Finalist (Global Rank 109)</li>
+                <li>Silver Medal (2nd Place Overall), "Jiuzhang Cup" University Mathematics Competition</li>
+                <li>Jianghuai-NIO Automotive Scholarship (Top 10%)</li>
+                <li>Hua Loo-Keng Elite Mathematics Program Scholarship (Top 10%)</li>
+            </ul>
+        </section>
+
+        <section id="extracurricular">
+            <h2>Extracurricular</h2>
+            <ul>
+                <li>
+                    <h3><a href="https://creepierchunk37.github.io/2025FallLinearAlgebra/" target="_blank">Teaching Assistant in Course "Linear Algebra (B1)"</a></h3>
+                    <p>Department of Mathematics, USTC</p>
+                    <p>Fall 2024 & Fall 2025</p>
+                    <ul>
+                        <li>Taught lectures and tutorials for 120+ undergraduate students, provided detailed grading feedback to improve problem-solving skills, and developed LaTeX-based supplementary materials to enhance conceptual understanding and support independent learning.</li>
+                        <li>Recipient of the Outstanding Teaching Assistant Award for exceptional contributions to student learning</li>
                     </ul>
-                </div>
-
-                <!-- Syllabus/Schedule Section -->
-                <div id="syllabus" class="bg-white p-6 rounded-lg shadow-sm mb-8 hover-card">
-                    <h2 class="text-2xl font-bold mb-4 border-b pb-2 text-gray-900">
-                        <i class="fas fa-calendar-alt mr-2 text-purple-500"></i>教学日程
-                    </h2>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-left">
-                            <thead>
-                                <tr class="bg-gray-100">
-                                    <th class="p-3 font-semibold">周次</th>
-                                    <th class="p-3 font-semibold">主题</th>
-                                    <th class="p-3 font-semibold">相关章节</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="border-b">
-                                    <td class="p-3">第1周</td>
-                                    <td class="p-3">线性方程组与矩阵</td>
-                                    <td class="p-3">Chapter 1</td>
-                                </tr>
-                                <tr class="border-b bg-gray-50">
-                                    <td class="p-3">第2周</td>
-                                    <td class="p-3">向量与线性组合</td>
-                                    <td class="p-3">Chapter 2</td>
-                                </tr>
-                                <tr class="border-b">
-                                    <td class="p-3">第3周</td>
-                                    <td class="p-3">矩阵运算与矩阵的逆</td>
-                                    <td class="p-3">Chapter 3</td>
-                                </tr>
-                                 <tr class="border-b bg-gray-50">
-                                    <td class="p-3">...</td>
-                                    <td class="p-3">...</td>
-                                    <td class="p-3">...</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-
-                <!-- Homework & Resources Section -->
-                <div id="homework" class="bg-white p-6 rounded-lg shadow-sm hover-card">
-                    <h2 class="text-2xl font-bold mb-4 border-b pb-2 text-gray-900">
-                        <i class="fas fa-book mr-2 text-green-500"></i>作业 & 资料
-                    </h2>
-                    <ul class="space-y-3">
-                        <li><a href="#" class="text-blue-600 hover:underline"><i class="fas fa-file-pdf mr-2"></i>作业1 (HW1) - 截止日期: 9/15</a> | <a href="#" class="text-green-600 hover:underline ml-2">解答</a></li>
-                        <li><a href="#" class="text-blue-600 hover:underline"><i class="fas fa-file-pdf mr-2"></i>作业2 (HW2) - 截止日期: 9/29</a> | <span class="text-gray-500 ml-2">解答待发布</span></li>
-                        <li class="pt-4 mt-4 border-t">
-                            <a href="path/to/your/template.tex" download class="text-indigo-600 hover:underline font-semibold">
-                                <i class="fas fa-download mr-2"></i>下载LaTeX作业模板
-                            </a>
-                        </li>
-                         <li>
-                            <a href="path/to/your/grading_rubric.pdf" download class="text-indigo-600 hover:underline font-semibold">
-                                <i class="fas fa-file-signature mr-2"></i>下载作业评分标准
-                            </a>
-                        </li>
+                </li>
+                <li>
+                    <h3>Vice President, USTC Rubik's Cube Association</h3>
+                    <p>Student Clubs, USTC</p>
+                    <p>2025-2026</p>
+                    <ul>
+                        <li>Attended the recruitment for new members, managed and executed a series of campus competitions including the freshman tournament, online weekly contests, and several offline campus events to promote cubing culture.</li>
                     </ul>
-                </div>
+                </li>
+            </ul>
+        </section>
 
-            </div>
-
-            <!-- Right Column: Sidebar -->
-            <div class="md:col-span-1 space-y-8">
-                
-                <!-- Course Info Card -->
-                <div class="bg-white p-6 rounded-lg shadow-sm hover-card">
-                    <h3 class="text-xl font-bold mb-4 border-b pb-2 text-gray-900">课程信息</h3>
-                    <div class="space-y-3">
-                        <p><strong>主讲教授:</strong> Dr. Emily Carter</p>
-                        <p><strong>助教 (TA):</strong> [你的名字]</p>
-                        <p><strong>课程时间:</strong> 周一/周三 10:00 - 11:30</p>
-                        <p><strong>教室:</strong> 教学楼 301</p>
-                        <p><strong>习题课:</strong> 周五 14:00 - 15:00</p>
-                    </div>
-                </div>
-
-                <!-- Contact & Office Hours Card -->
-                <div class="bg-white p-6 rounded-lg shadow-sm hover-card">
-                    <h3 class="text-xl font-bold mb-4 border-b pb-2 text-gray-900">联系方式 & Office Hours</h3>
-                    <div class="space-y-3">
-                        <p>
-                            <i class="fas fa-envelope mr-2 text-gray-500"></i>
-                            <strong>[你的名字]:</strong> <a href="mailto:your.email@university.edu" class="text-blue-600 hover:underline">your.email@university.edu</a>
-                        </p>
-                        <p>
-                            <i class="fas fa-clock mr-2 text-gray-500"></i>
-                            <strong>Office Hours:</strong> 周二 15:00 - 17:00
-                        </p>
-                         <p>
-                            <i class="fas fa-map-marker-alt mr-2 text-gray-500"></i>
-                            <strong>地点:</strong> 数学系楼 405办公室
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Grading Policy Card -->
-                <div class="bg-white p-6 rounded-lg shadow-sm hover-card">
-                    <h3 class="text-xl font-bold mb-4 border-b pb-2 text-gray-900">评分标准</h3>
-                     <ul class="list-disc list-inside text-gray-700 space-y-1">
-                        <li>平时作业 (Homework): 30%</li>
-                        <li>期中考试 (Midterm): 30%</li>
-                        <li>期末考试 (Final Exam): 40%</li>
-                        <li><a href="#" class="text-blue-600 hover:underline text-sm">查看详细评分标准...</a></li>
-                    </ul>
-                </div>
-
-            </div>
-        </div>
+        <section id="contact">
+            <h2>Contact</h2>
+            <ul>
+                <li><strong>Address:</strong> No. 96, Jinzhai Road, Hefei City, Anhui Province, China</li>
+                <li><strong>Phone:</strong> +86-19334069459</li>
+                <li><strong>Email:</strong> qyt0912@mail.ustc.edu.cn</li>
+                <li><strong>QQ:</strong> 3437185695</li>
+            </ul>
+        </section>
     </main>
 
-    <!-- Footer -->
-    <footer class="bg-white mt-12 py-4 border-t">
-        <div class="container mx-auto text-center text-gray-500 text-sm">
-            <p>&copy; 2025 [你的大学名称] 数学系. All rights reserved.</p>
-        </div>
+    <footer>
+        <p>&copy; 2025 Yitong Qiu. All rights reserved.</p>
     </footer>
-
 </body>
 </html>
