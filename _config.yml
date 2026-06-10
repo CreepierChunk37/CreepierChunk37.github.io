@@ -1,0 +1,22 @@
+# Minimal Light academic homepage
+remote_theme: yaoyao-liu/minimal-light
+
+title: CreepierChunk37
+position: Mathematics Student
+affiliation: Independent Researcher
+email: qyt050912 (at) 163.com
+
+keywords: mathematics, stochastic systems, applied analysis, scientific computing
+description: Academic homepage of CreepierChunk37, featuring research interests, publications, and projects.
+canonical: https://creepierchunk37.github.io/
+
+github_link: https://github.com/CreepierChunk37
+avatar: https://avatars.githubusercontent.com/u/130744956?v=4
+
+enable_footnote: true
+auto_dark_mode: true
+font: "Sans Serif"
+
+exclude:
+  - README.md
+  - LICENSE
