@@ -1,13 +1,14 @@
 # Minimal Light academic homepage
 remote_theme: yaoyao-liu/minimal-light
 
-title: CreepierChunk37
-position: Mathematics Student
-affiliation: Independent Researcher
-email: qyt050912 (at) 163.com
+title: Yitong Qiu
+position: Incoming Ph.D. Student
+affiliation: Columbia University IEOR
+affiliation_link: https://ieor.columbia.edu/
+email: yq2463 (at) columbia.edu
 
-keywords: mathematics, stochastic systems, applied analysis, scientific computing
-description: Academic homepage of CreepierChunk37, featuring research interests, publications, and projects.
+keywords: theoretical machine learning, diffusion models, reinforcement learning, applied probability
+description: Academic homepage of Yitong Qiu, an incoming Ph.D. student in Industrial Engineering and Operations Research at Columbia University.
 canonical: https://creepierchunk37.github.io/
 
 github_link: https://github.com/CreepierChunk37
