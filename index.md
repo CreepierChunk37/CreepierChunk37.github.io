@@ -28,7 +28,6 @@ My research interests lie at the intersection of machine learning, applied proba
 - **University of Science and Technology of China**, Hefei, China<br>
   School of the Gifted Young<br>
   B.S. in Mathematics, Hua Loo-Keng Talent Program in Mathematics, 2022–2026<br>
-  GPA: 3.98/4.3; rank: 6/93
 
 ## Selected Honors
 
