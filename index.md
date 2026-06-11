@@ -16,7 +16,7 @@ My research interests lie at the intersection of machine learning, applied proba
 
 ## Publications & Preprints
 
-1. **Yitong Qiu** and Jianliang Zhai.<br>
+1. **Yitong Qiu**, Jifa Jiang, and Jianliang Zhai.<br>
    **Freidlin-Wentzell Uniform Large Deviation Principles for Degenerate Chain Diffusions with Unbounded Coefficients.**<br>
    *Manuscript in preparation.*
 
