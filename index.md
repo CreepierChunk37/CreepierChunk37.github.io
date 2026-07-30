@@ -16,13 +16,10 @@ My research interests lie at the intersection of machine learning, applied proba
 
 ## Publications & Preprints
 
-1. **Yitong Qiu**, Jifa Jiang, and Jianliang Zhai.<br>
-   **Freidlin-Wentzell Uniform Large Deviation Principles for Degenerate Chain Diffusions with Unbounded Coefficients.**<br>
-   *Manuscript in preparation.*
-
-2. Ye He, **Yitong Qiu**, and Molei Tao.<br>
+1. Ye He, **Yitong Qiu**, and Molei Tao.<br>
    **Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold.**<br>
-   *Preprint*, 2026. [[arXiv](https://arxiv.org/abs/2602.06021)]
+   *Preprint*, 2026. [[arXiv](https://arxiv.org/abs/2602.06021)]<br>
+   **Best Paper Award**, FoGen Workshop at ICML 2026.
 
 ## Education
 
