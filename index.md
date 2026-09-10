@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student in the Department of Industrial Engineering and Operations Research (IEOR) at Columbia University. I received my B.S. in Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC), as a member of the Hua Loo-Keng Talent Program in Mathematics.
+I am a Ph.D. student in the Department of Industrial Engineering and Operations Research (IEOR) at Columbia University. I received my B.S. in Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC), as a member of the Hua Loo-Keng Talent Program in Mathematics.
 
 My research interests lie at the intersection of machine learning, applied probability, and optimization.
 
@@ -24,7 +24,7 @@ My research interests lie at the intersection of machine learning, applied proba
 ## Education
 
 - **Columbia University**, New York, NY<br>
-  Ph.D. in Industrial Engineering and Operations Research, incoming Fall 2026
+  Ph.D. in Industrial Engineering and Operations Research, 2026–present
 
 - **University of Science and Technology of China**, Hefei, China<br>
   School of the Gifted Young<br>
