@@ -16,7 +16,7 @@ My research interests lie at the intersection of machine learning, applied proba
 
 ## News
 
-- **September 2026:** We are delighted to share that our [paper](https://arxiv.org/abs/2602.06021) has been accepted to NeurIPS 2026!
+- **Sep. 2026:** We are delighted to share that our [paper](https://arxiv.org/abs/2602.06021) has been accepted to NeurIPS 2026!
 
 ## Publications & Preprints
 
