@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Industrial Engineering and Operations Research (IEOR) at Columbia University. I received my B.S. in Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC), as a member of the Hua Loo-Keng Talent Program in Mathematics.
+I am a Ph.D. student in the Department of Industrial Engineering and Operations Research (IEOR) at Columbia University, advised by [Wenpin Tang](https://ieor.columbia.edu/content/wenpin-tang). I received my B.S. in Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC), as a member of the Hua Loo-Keng Talent Program in Mathematics.
 
 My research interests lie at the intersection of machine learning, applied probability, and optimization.
 
@@ -14,11 +14,15 @@ My research interests lie at the intersection of machine learning, applied proba
 - **Diffusion Models**
 - **Reinforcement Learning**
 
+## News
+
+- **September 2026:** We are delighted to share that our [paper](https://arxiv.org/abs/2602.06021) has been accepted to NeurIPS 2026!
+
 ## Publications & Preprints
 
 1. Ye He, **Yitong Qiu**, and Molei Tao.<br>
    **Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold.**<br>
-   *Preprint*, 2026. [[arXiv](https://arxiv.org/abs/2602.06021)]<br>
+   *Advances in Neural Information Processing Systems (NeurIPS)*, 2026. [[arXiv](https://arxiv.org/abs/2602.06021)]<br>
    **Best Paper Award**, FoGen Workshop at ICML 2026.
 
 ## Education
