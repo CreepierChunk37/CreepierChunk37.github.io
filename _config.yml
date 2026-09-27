@@ -12,7 +12,7 @@ description: Academic homepage of Yitong Qiu, a Ph.D. student in Industrial Engi
 canonical: https://creepierchunk37.github.io/
 
 github_link: https://github.com/CreepierChunk37
-avatar: https://avatars.githubusercontent.com/u/130744956?v=4
+avatar: ./assets/img/avatar.png
 
 enable_footnote: true
 auto_dark_mode: true
